@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👨‍💻 Flutter Developer
 
-<!--
-**uday597/uday597** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! I'm a **Flutter Developer** passionate about building modern, responsive, and user-friendly apps.  
+I enjoy crafting beautiful UIs, writing clean code, and integrating powerful backend services.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+
+- **Languages & Frameworks**
+  - Dart 🐦
+  - Flutter 💙
+  - HTML 🌐
+  - CSS 🎨
+- **Backend & Database**
+  - Supabase 🔥
+  - SQL 🗄️
+
+---
+
+## ⚡ What I Do
+
+✅ Build cross-platform mobile apps with Flutter  
+✅ Connect apps with Supabase for authentication & database  
+✅ Design responsive and modern UI using Flutter Widgets  
+✅ Write clean, scalable, and maintainable code  
+
+---
+
+## 📊 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
+
+---
+
+## 🌐 Connect with Me
+
+- 💼 [LinkedIn](https://www.linkedin.com)  
+- 🐦 [Twitter](https://twitter.com)  
+- 📧 Email: yourname@email.com  
+
+---
+
+✨ *"Code is like humor. When you have to explain it, it’s bad."* ✨
