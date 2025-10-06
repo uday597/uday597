@@ -33,9 +33,8 @@ I enjoy crafting beautiful UIs, writing clean code, and integrating powerful bac
 
 ## 🌐 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com)  
-- 🐦 [Twitter](https://twitter.com)  
-- 📧 Email: yourname@email.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/uday-256b15342/)   
+- 📧 Email: uday30467@gmail.com 
 
 ---
 
